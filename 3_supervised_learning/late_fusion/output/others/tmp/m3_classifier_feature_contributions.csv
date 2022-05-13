@@ -1,0 +1,112 @@
+,Overweight or Obese
+Obesity diagnosis,0.2401251253405049
+Diabetes Mellitus diagnosis,0.0
+High Blood Pressure diagnosis,0.0
+Heart Attack or Heart Infarction diagnosis,0.0
+Chest Angina diagnosis,0.0
+Heart Failure diagnosis,0.0
+Urinary Track Infection diagnosis,0.0
+Kidney stones diagnosis,0.0
+Renal Failure diagnosis,0.0
+High cholesterol diagnosis,0.0
+High Triglycerides diagnosis,0.0
+Father with Diabetes Mellitus,0.0
+Father with High Blood Pressure,0.0
+Father with Heart Infarction,0.0
+Father with High Cholesterol or Triglycerides,0.017896602351184825
+Mother with Diabetes Mellitus,0.0
+Mother with High Blood Pressure,0.0
+Mother with Heart Infarction,0.0
+Mother with High Cholesterol or Triglycerides,0.0
+Sibling with Diabetes Mellitus,0.0
+Sibling with High Blood Pressure,0.0
+Sibling with Heart Infarction,0.0
+Sibling with High Cholesterol or Triglycerides,0.0
+Experienced Violence,0.0
+Smokes in the present,0.0
+Smoked in the past,0.0
+Needs sight aid,0.0
+Needs hearing aid,0.0
+Has difficulty walking,0.0
+Has difficulty with memory,0.0
+Has difficulty with self-care,0.0
+Has difficulty with communication,0.0
+Seeks healthcare at: IMSS,0.0
+Seeks healthcare at: ISSSTE,0.0
+Seeks healthcare at: State ISSSTE,0.0
+Seeks healthcare at: PEMEX,0.0
+Seeks healthcare at: Defensa,0.0
+Seeks healthcare at: Marina,0.0
+Seeks healthcare at: SSA,-0.0630948472339638
+Seeks healthcare at: IMSS Prospera,0.0
+Seeks healthcare at: Pharmacy,0.0
+Seeks healthcare at: Private care,0.0
+Seeks healthcare at: Self-Medication,0.0
+Seeks healthcare at: Other,0.0
+Seeks healthcare at: Does not go,0.0
+Seeks healthcare at: Does not know,0.0
+Speaks indigenous language,0.0
+Attends school,0.0
+Worked hours last week,0.0
+Difficulty using legs,0.0
+Difficulty seeing,0.0
+Difficulty using arms,0.0
+Difficulty learning,0.0
+Difficulty hearing,0.0
+Difficulty with self-care,0.0
+Difficulty speaking,0.0
+Difficulty with daily activity,0.0
+Fruit intake >= 7 days,0.0
+Vegetable intake >= 7 days,0.0
+Legumes intake >= 3 days,0.0
+Meat intake >= 3 days,0.014756796624970136
+Procesed meat intake >= 3 days,0.0
+Fast food intake >= 3 days,0.0
+Sweets intake >= 3 days,0.0
+Sweetened Cereals intake >= 3 days,0.0
+Non-Dairy Sugary Beverages intake >= 3 days,0.0
+Water intake >= 7 days,0.0
+Dairy Sugary Beverages intake >= 3 days,0.0
+Dairy intake >= 3 days,0.0
+Eggs intake >= 3 days,0.0
+Kinship: Grandparent,0.0
+Kinship: Great-grandparent,0.0
+Kinship: Father or Uncle/Aunt,0.0
+Kinship: Mother/father-in-law,0.0
+Kinship: No kinship,0.0
+Kinship: Parent,0.0
+Kinship: Parent or uncle/aunt,0.0
+Kinship: Partner,0.0
+Kinship: Partner or brother/sister-in-law,0.0
+Kinship: Sibling,0.0
+Kinship: Sibling or cousin,0.0
+Kinship: Unknown,0.0
+Marital status: divorced,0.0
+Marital status: free union,0.0
+Marital status: married,0.0
+Marital status: separated free union,0.0
+Marital status: separated marriage,0.0
+Marital status: single,0.0
+Marital status: widowed,0.0
+Grade achieved: bachellors,0.0
+Grade achieved: doctorate,0.0
+Grade achieved: masters,0.0
+Grade achieved: none,0.0
+Grade achieved: normal basica,0.0
+Grade achieved: licenciatura,0.0
+Grade achieved: pre-school,0.0
+Grade achieved: preparatoria,0.0
+Grade achieved: primaria,0.0
+Grade achieved: secundaria,0.0
+Grade achieved: preparatoria with technical studies,0.0
+Grade achieved: primaria with technical studies,0.0
+Grade achieved: secundaria with technical studies,0.0
+age_group_health_info_adult_20-29,0.0
+age_group_health_info_adult_30-39,0.0
+age_group_health_info_adult_40-49,0.0
+age_group_health_info_adult_50-59,0.0
+age_group_health_info_adult_60-69,0.0
+age_group_health_info_adult_70-79,0.0
+age_group_health_info_adult_80-89,0.0
+sex_health_info_adult_female,0.0
+sex_health_info_adult_male,0.0

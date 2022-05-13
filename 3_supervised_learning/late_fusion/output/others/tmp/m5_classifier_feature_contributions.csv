@@ -1,0 +1,69 @@
+,Overweight or Obese
+Knows packaging contains Nutritional Information,0.055688960876848395
+Uses Nutritional Information to make buying decision,0.044398949328045424
+Uses Nutritional Information: Daily Nutritional Guide,-0.06199540738774908
+Uses packaging info: Nutritional Seals,0.08844360923307554
+Uses packaging info: explicit nutritional legends,0.08691850322950478
+Uses packaging info: Nutritional Information,-0.0711305549064655
+Uses packaging info: ingredient list,-0.10006329888324823
+Uses packaging info: none,0.05472615756910976
+Uses packaging info: does not know,-0.7107259116073557
+Identifies unhealthy product,0.15160767004165893
+Identifies correct sodium level,0.12235609615752142
+Identifies correct number of calories,0.23821817372148363
+Age: 20-29 years,-0.29018952639091267
+Age: 30-39 years,-0.03461365639624516
+Age: 40-49 years,0.0
+Age: 50-59 years,0.03836173916755232
+Age: 60-69 years,0.10139060152332437
+Age: 70-79 years,0.10076107746831928
+Age: 80-89 years,0.17125277263399366
+Sex: female,0.030070124788993208
+Sex: male,0.0
+Buy choice based on packaging info: almost always,-0.01183280674581376
+Buy choice based on packaging info: almost never,0.09150335442888075
+Buy choice based on packaging info: always,-0.09028820983328861
+Buy choice based on packaging info: never,0.0765366725418425
+Buy choice based on packaging info: sometimes,0.0
+Time looking at packaging info: does not see it,0.0853437244183302
+Time looking at packaging info: 30 to 60 seconds,0.0
+Time looking at packaging info: < 30 seconds,0.05466659929666432
+Time looking at packaging info: > 1 minute,-0.0309187887976756
+Importance of Energy content info: important,0.0
+Importance of Energy content info: least important,0.014519009851773512
+Importance of Energy content info: most important,0.0
+Importance of Energy content info: neutral,-0.027500358280553538
+Importance of Energy content info: unimportant,0.14289198213587578
+Importance of Sodium content info: important,-0.021457138276396465
+Importance of Sodium content info: least important,-0.07861688516087123
+Importance of Sodium content info: most important,0.09281516864729616
+Importance of Sodium content info: neutral,0.0019230180611694739
+Importance of Sodium content info: unimportant,0.04818042093646027
+Importance of Sugars content info: important,-0.08192512230854898
+Importance of Sugars content info: least important,0.10884293726672292
+Importance of Sugars content info: most important,0.037646365257181305
+Importance of Sugars content info: neutral,0.046241085538506345
+Importance of Sugars content info: unimportant,-0.07571338861182512
+Importance of Fats content info: important,0.18435691143511052
+Importance of Fats content info: least important,0.037766688228746
+Importance of Fats content info: most important,-0.12982299274311607
+Importance of Fats content info: neutral,-0.031299783595358656
+Importance of Fats content info: unimportant,0.0
+Importance of Saturated Fats content info: important,0.11547432134640072
+Importance of Saturated Fats content info: least important,-0.055492422067189226
+Importance of Saturated Fats content info: most important,0.0
+Importance of Saturated Fats content info: neutral,0.06151581641845821
+Importance of Saturated Fats content info: unimportant,-0.04819642341344162
+Kinship: grandparent,-0.627058523364468
+Kinship: great-grandparent,0.2993813850787718
+Kinship: father or Uncle/Aunt,-0.037624156511434054
+Kinship: mother/father-in-law,-0.19725688211050985
+Kinship: no kinship,0.12545718843865344
+Kinship: parent,-0.25379185839312685
+Kinship: parent or uncle/aunt,-0.3783486057473453
+Kinship: partner,0.677266637486976
+Kinship: partner or brother/sister-in-law,0.0
+Kinship: sibling,0.06775117149325639
+Kinship: sibling or brother/sister-in-law,0.3895052749088849
+Kinship: sibling or cousin,-0.10546290307275409
+Kinship: unknown,0.0002449190889219684

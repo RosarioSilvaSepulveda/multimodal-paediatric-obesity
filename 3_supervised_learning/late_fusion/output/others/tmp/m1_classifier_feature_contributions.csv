@@ -1,0 +1,38 @@
+,Overweight or Obese
+Hired aid for house chores,0.0327763352115976
+House has TV,0.0
+House has paid TV,0.0
+House has radio,0.0
+House has audio system,0.013804462951276249
+House has computer,0.0229239051980006
+House has cellphone,0.0
+House has internet,0.0796779350195619
+House has phone land line,0.026549095901933335
+House has clothes iron,0.059285829443762685
+House has blender,0.0
+House has refrigerator,0.23894772234503428
+House has gas stove,0.1598039950115762
+House has other stove,0.0
+House has washing or drying machine,0.18643852043451695
+House has microwave,0.0
+Is the room used to cook used to sleep too,0.0
+Is the food expense the same for all the household,0.0
+Room used to cook: kitchen,0.0
+ELCSA result: Food security,0.0
+ELCSA result: Mild insecurity,0.0
+ELCSA result: Moderate insecurity,0.0
+ELCSA result: Severe insecurity,0.0
+region_Centre,-0.04410021662663515
+region_Mexico City,0.09659987172537002
+region_North,0.0701229187884397
+region_South,0.0
+strata_1st_strata,-0.036382100176756985
+strata_2nd_strata,0.08735747398223488
+strata_3rd_strata,0.0
+strata_4th_strata,0.0
+locality_type_rural,0.0
+locality_type_urban,0.023670081517044122
+"locality_size_15,000-99,999",0.0
+"locality_size_2,500-14,999",0.0
+"locality_size_<2,500",0.0
+"locality_size_>100,000",0.0

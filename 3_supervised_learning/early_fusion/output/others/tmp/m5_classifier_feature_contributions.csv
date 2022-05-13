@@ -1,0 +1,212 @@
+,Overweight or Obese
+Region: Centre,0.0
+Region: Mexico City,0.0
+Region: North,0.0
+Region: South,0.0
+Sociodemographic strata: 1st strata,-0.16807409353917588
+Sociodemographic strata: 2nd strata,0.0
+Sociodemographic strata: 3rd strata,0.0
+Sociodemographic strata: 4th strata,0.0
+locality_type_rural,0.0
+locality_type_urban,0.0
+"locality_size_15,000-99,999",0.0
+"locality_size_2,500-14,999",0.0
+"locality_size_<2,500",0.0
+"locality_size_>100,000",0.0
+Room used to cook: kitchen,0.0
+ELCSA result: Food security,0.0
+ELCSA result: Mild insecurity,0.0
+ELCSA result: Moderate insecurity,0.0
+ELCSA result: Severe insecurity,0.0
+sex_health_info_adult_female,0.0
+sex_health_info_adult_male,0.0
+Grade achieved: bachellors,0.0
+Grade achieved: masters,0.0
+Grade achieved: none,0.0
+Grade achieved: normal basica,0.0
+Grade achieved: licenciatura,0.0
+Grade achieved: preparatoria,0.0
+Grade achieved: primaria,0.0
+Grade achieved: secundaria,0.0
+Grade achieved: preparatoria with technical studies,0.0
+Grade achieved: primaria with technical studies,0.0
+Grade achieved: secundaria with technical studies,0.0
+Marital status: divorced,0.0
+Marital status: free union,0.0
+Marital status: married,0.0
+Marital status: separated free union,0.0
+Marital status: separated marriage,0.0
+Marital status: single,0.1355236194286269
+Marital status: widowed,0.0
+Kinship: Grandparent,0.0
+Kinship: Father or Uncle/Aunt,0.0
+Kinship: Mother/father-in-law,0.0
+Kinship: No kinship,0.0
+Kinship: Parent,0.0
+Kinship: Parent or uncle/aunt,0.0
+Kinship: Partner,0.0
+Kinship: Partner or brother/sister-in-law,0.0
+Kinship: Sibling,0.0
+Kinship: Sibling or cousin,0.0
+Kinship: Unknown,0.0
+age_group_health_info_adult_20-29,0.0
+age_group_health_info_adult_30-39,0.0
+age_group_health_info_adult_40-49,0.0
+age_group_health_info_adult_50-59,0.0
+age_group_health_info_adult_60-69,0.0
+age_group_health_info_adult_70-79,0.0
+age_group_health_info_adult_80-89,0.0
+age_group_health_info_adult_90 or more,0.0
+Age: 20-29 years,0.0
+Age: 30-39 years,0.0
+Age: 40-49 years,0.0
+Age: 50-59 years,0.0
+Age: 60-69 years,0.0
+Age: 70-79 years,0.0
+Age: 80-89 years,0.0
+age_nut_know_adult_90 or more,0.0
+Sex: female,0.0
+Sex: male,0.0
+Buy choice based on packaging info: almost always,0.0
+Buy choice based on packaging info: almost never,0.0
+Buy choice based on packaging info: always,0.0
+Buy choice based on packaging info: never,0.0
+Buy choice based on packaging info: sometimes,0.0
+Time looking at packaging info: does not see it,0.0
+Time looking at packaging info: 30 to 60 seconds,0.0
+Time looking at packaging info: < 30 seconds,0.0
+Time looking at packaging info: > 1 minute,0.0
+Kinship: grandparent,0.0
+Kinship: father or Uncle/Aunt,0.0
+Kinship: mother/father-in-law,0.0
+Kinship: no kinship,0.0
+Kinship: parent,0.0
+Kinship: parent or uncle/aunt,0.0
+Kinship: partner,0.0
+Kinship: partner or brother/sister-in-law,0.0
+Kinship: sibling,0.0
+Kinship: sibling or cousin,0.0
+Kinship: unknown,0.0
+Expense in fruits,0.0
+Expense in vegetables,0.0
+Expense in corn,0.0
+Expense in bread,0.0
+Expense in grains,0.0
+Expense in oil and sugar,0.0
+Expense in dairy,0.0
+Expense in eggs,0.0
+Expense in snacks,0.0
+Expense in snacks,0.0
+Expense in fast food,0.0
+Expense in bottled water,0.0
+Expense in soda,0.0
+Expense in alcohol,0.0
+Expense in tobacco,0.0
+Expense in takeout or restaurant meals,0.0
+monthly_income,0.0
+total_food_exp,0.0
+total_medical_exp,0.0
+Blood glucose,0.0
+Glucosilated hemoglobin,0.0
+Albumin,0.0
+HDL Cholesterol,0.0
+Creatinine,0.0
+Insulin,0.0
+Triglycerides,0.0
+Hemoglobin,0.0
+Body Mass Index,1.8801283374668216
+Hired aid for house chores,0.0
+House has TV,0.0
+House has paid TV,0.07978852409417078
+House has radio,0.0
+House has audio system,0.038604070587322334
+House has computer,0.0
+House has cellphone,0.0
+House has internet,0.0
+House has phone land line,0.0
+House has clothes iron,0.0
+House has blender,0.0
+House has refrigerator,0.0
+House has gas stove,0.0
+House has other stove,0.0
+House has washing or drying machine,0.04349019346314738
+House has microwave,0.0
+Is the room used to cook used to sleep too,0.0
+Is the food expense the same for all the household,0.0
+Obesity diagnosis,0.20342575713867475
+Diabetes Mellitus diagnosis,0.0
+High Blood Pressure diagnosis,0.0
+Heart Attack or Heart Infarction diagnosis,0.0
+Chest Angina diagnosis,0.0
+Heart Failure diagnosis,0.0
+Urinary Track Infection diagnosis,0.0
+Kidney stones diagnosis,0.0
+Renal Failure diagnosis,0.0
+High cholesterol diagnosis,0.0
+High Triglycerides diagnosis,0.0
+Father with Diabetes Mellitus,0.0
+Father with High Blood Pressure,0.0
+Father with Heart Infarction,0.0
+Father with High Cholesterol or Triglycerides,0.05818265687845442
+Mother with Diabetes Mellitus,0.0
+Mother with High Blood Pressure,0.0
+Mother with Heart Infarction,0.0
+Mother with High Cholesterol or Triglycerides,0.0
+Sibling with Diabetes Mellitus,0.0
+Sibling with High Blood Pressure,0.0
+Sibling with Heart Infarction,0.0
+Sibling with High Cholesterol or Triglycerides,0.0
+Experienced Violence,0.0
+Smokes in the present,0.0
+Smoked in the past,0.0
+Needs sight aid,0.0
+Needs hearing aid,0.0
+Has difficulty walking,0.0
+Has difficulty with memory,0.0
+Has difficulty with self-care,0.0
+Has difficulty with communication,0.0
+Seeks healthcare at: IMSS,0.0
+Seeks healthcare at: ISSSTE,0.0
+Seeks healthcare at: State ISSSTE,0.0
+Seeks healthcare at: PEMEX,0.0
+Seeks healthcare at: Defensa,0.0
+Seeks healthcare at: Marina,0.0
+Seeks healthcare at: SSA,0.0
+Seeks healthcare at: IMSS Prospera,0.0
+Seeks healthcare at: Pharmacy,0.0
+Seeks healthcare at: Private care,0.08784347750577562
+Seeks healthcare at: Self-Medication,0.0
+Seeks healthcare at: Other,0.0
+Seeks healthcare at: Does not go,0.0
+Seeks healthcare at: Does not know,0.0
+Speaks indigenous language,0.0
+Attends school,0.0
+Difficulty using legs,0.0
+Difficulty seeing,0.0
+Difficulty using arms,0.0
+Difficulty learning,0.0
+Difficulty hearing,0.0
+Difficulty with self-care,0.0
+Difficulty speaking,0.0
+Difficulty with daily activity,0.0
+Fruit intake >= 7 days,0.0404026490587593
+Vegetable intake >= 7 days,0.0
+Legumes intake >= 3 days,0.0
+Meat intake >= 3 days,0.0
+Procesed meat intake >= 3 days,0.0
+Fast food intake >= 3 days,0.0
+Sweets intake >= 3 days,-0.04990947125489134
+Sweetened Cereals intake >= 3 days,0.0
+Non-Dairy Sugary Beverages intake >= 3 days,0.0
+Water intake >= 7 days,0.0
+Dairy Sugary Beverages intake >= 3 days,0.0
+Dairy intake >= 3 days,0.0
+Eggs intake >= 3 days,0.0
+Uses Nutritional Information: Daily Nutritional Guide,0.0
+Uses packaging info: Nutritional Seals,0.0
+Uses packaging info: explicit nutritional legends,0.0
+Uses packaging info: Nutritional Information,0.0
+Uses packaging info: ingredient list,0.0
+Uses packaging info: none,0.0
+Uses packaging info: does not know,0.0
+Knows packaging contains Nutritional Information,0.0
