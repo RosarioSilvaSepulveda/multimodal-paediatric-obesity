@@ -6,9 +6,9 @@
         2467,
         211
       ],
-      "tensorPath": "https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/tensors.tsv",
-      "metadataPath": "https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/metadata.tsv",
-      "bookmarksPath": "https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/bookmarks.txt"
+      "tensorPath": "https://raw.githubusercontent.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/bookmarks.txt"
     }
   ]
 }
