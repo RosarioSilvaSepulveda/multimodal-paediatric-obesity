@@ -46,5 +46,5 @@ In progress...
   - Modality 5. Knowledge on nutritional information: [Modelling](https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/3_supervised_learning/late_fusion/code/m5_modeling.ipynb) | [Feature Importance](https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/3_supervised_learning/late_fusion/code/m5_model_interpretation.ipynb)
 
 ### Unsupervised Learning
-- Traditional approach: [Before dimensionality reduction]() | [After dimensionality reduction]()
+- Traditional approach: [Before dimensionality reduction](https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/traditional_approach/code/0_multimodal_unsupervised_learning_before_dim_red.ipynb) | [After dimensionality reduction](https://github.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/blob/main/4_unsupervised_learning/traditional_approach/code/2_multimodal_unsupervised_learning_after_dim_red.ipynb)
 - Exploratory approach: You can interactively visualize the data and inspect the results [here](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/RosarioSilvaSepulveda/multimodal-paediatric-obesity/main/4_unsupervised_learning/exploratory_approach/tf_embedding_projector/projector_config.json).
